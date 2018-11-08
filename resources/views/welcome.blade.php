@@ -83,8 +83,13 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://stud.hosted.hr.nl/0940599/">Blog</a>
-                    <a href="https://github.com/IAmMisterFrank">GitHub</a>
+                    <a target="_blank" href="https://stud.hosted.hr.nl/0940599/">Blog</a>
+                    <a target="_blank" href="https://github.com/IAmMisterFrank">GitHub</a>
+                </div>
+                <br>
+                <div class="content">
+                    Bekijk enkele projecten van mij:<br>
+                    <a target="_blank" href="https://laundry.franksolleveld.nl">Flat Alexander</a>
                 </div>
             </div>
         </div>
